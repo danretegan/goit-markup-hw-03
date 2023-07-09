@@ -291,10 +291,11 @@ ul {
   text-decoration-line: none;
 }
 
--------------------------------------------------
+
 
 
 /* Portfolio Page*/
+
 .filter-button {
   color: var(--title-nav-color);
   font-family: var(--webstudio-font-family);
